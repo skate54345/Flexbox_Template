@@ -1,0 +1,28 @@
+.box{
+  border:5px solid gray;
+  padding:10px;
+  color:white;
+  text-shadow:5px 5px 0 rgba(0, 0, 0, 0.1);
+  text-align:center;
+  flex-basis:500px;
+  flex-wrap:wrap;
+}
+
+
+.box1{background:blue}
+.box2{background:red}
+.box3{background:pink}
+.box4{background:violet}
+.box5{background:#B4D455}
+.box6{background:orange}
+
+
+.container{
+  display:flex;
+  font-size:10em;
+  border:10px solid red;
+  /* height:100vh; */
+  flex:1;
+
+
+}
